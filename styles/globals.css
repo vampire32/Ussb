@@ -1,0 +1,11 @@
+ @tailwind base;
+ @tailwind components;
+ @tailwind utilities;
+ 
+ .icons {
+   height: 74px;
+   width: 100px;
+   background-image: none;
+   margin: 0 auto;
+   padding: 15px;
+ }
